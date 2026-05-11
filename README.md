@@ -61,4 +61,5 @@ If you use these scripts or adapted workflows, please cite:
 Balogun D, et al. (2026). Urban adaptation and pyrethroid resistance driven by molecular resistance mechanisms in Anopheles coluzzii populations from a peri-urban setting in southwestern Nigeria. *Acta Tropica*. DOI: https://doi.org/10.1016/j.actatropica.2026.108119
 
 ORCID: https://orcid.org/0009-0006-1686-0672
+
 ResearchGate: https://www.researchgate.net/profile/Daniel-Balogun-2/research
